@@ -1,3 +1,5 @@
+set(CMAKE_PROJECT_TOP_LEVEL_INCLUDES conan_provider.cmake)
+
 cmake_minimum_required(VERSION 3.24)
 
 project(FormatOutput LANGUAGES CXX)

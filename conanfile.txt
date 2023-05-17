@@ -1,5 +1,9 @@
 [requires]
 fmt/9.1.0
 
+[options]
+fmt*:shared=True
+fmt*:fPIC=True
+
 [layout]
 cmake_layout
